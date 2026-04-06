@@ -36,4 +36,5 @@
 Основной вывод: клиенты на краткосрочных контрактах с высоким чеком требуют особого внимания отдела удержания
 
 ## Визуализация в Power BI
-![Dashboard](Dashboard.png)
+<img width="1433" height="816" alt="Dashboard" src="https://github.com/user-attachments/assets/10d64030-a92a-42cf-9a1d-b3723fd6d077" />
+
